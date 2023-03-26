@@ -1,2 +1,2 @@
-# Final-Cas
+# Final-Case
 FMSS Bilişim İş Analisti Practicum
